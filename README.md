@@ -1,5 +1,3 @@
-# osaulenko_nosql_1
-
 # Spotify NoSQL Analytics Platform 🎵
 
 Цей репозиторій містить аналітичну платформу на базі MongoDB для роботи з даними музичного стрімінгу (датасет Spotify Tracks). 
