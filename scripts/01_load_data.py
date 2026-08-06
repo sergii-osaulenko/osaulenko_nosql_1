@@ -1,4 +1,4 @@
-# scripts/01_load_data.py
+# scripts/01_load_data
 import os
 import ast
 import pandas as pd

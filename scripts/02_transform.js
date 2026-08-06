@@ -1,4 +1,4 @@
-// scripts/02_transform.js
+// scripts/02_transform
 // Запуск: mongosh "mongodb+srv://admin:~123Qwer@cluster0.7eu2snb.mongodb.net/?appName=Cluster0" --file scripts/02_transform.js
 
 use('spotify');
