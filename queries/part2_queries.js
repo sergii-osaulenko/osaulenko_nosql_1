@@ -1,4 +1,4 @@
-// queries/part2_queries
+// queries/part2_queries.js
 use('spotify');
 
 print("=== Завдання 1. Треки для вечірки ===");

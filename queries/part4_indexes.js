@@ -1,4 +1,4 @@
-// queries/part4_indexes
+// queries/part4_indexes.js
 use('spotify');
 
 print("=== Завдання 1. Аналіз запиту та індексація ===");

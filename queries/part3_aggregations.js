@@ -1,4 +1,4 @@
-// queries/part3_aggregations
+// queries/part3_aggregations.js
 use('spotify');
 
 print("=== Завдання 1. Топ-10 виконавців за середньою популярністю ===");
